@@ -1,0 +1,45 @@
+.containerPage{
+    margin-top: 100px;
+    margin-left:50px;
+}
+.head{
+    padding-left:220px;
+    margin-bottom: 50px;
+
+}
+.col2{
+    float:right;
+    
+}
+#container2{
+    margin-top:50px;
+   
+}
+.col1{
+    margin-left:50px;
+    margin-top: 20px;
+    width:300px;
+}
+.row1{
+    position: relative;
+    padding-top:10px;
+    padding-right:100px;
+    margin-left: 100px;
+    background-color: white;
+    padding-bottom:20px;
+    margin-top: 20px;
+    margin-right:50px;
+
+}
+#navs{
+    margin-left:150px;
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    body{
+        background: aqua;
+    }
+    .wrapper{
+        width: 600px;
+    }
+}
